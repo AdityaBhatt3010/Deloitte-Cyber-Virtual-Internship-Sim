@@ -1,8 +1,6 @@
 # 🛡️ Deloitte Virtual Internship Cyber Sim Victory 🗿
 
-## Cracked Deloitte’s Cyber Simulation by exposing a stealthy insider through Blue Team log forensics — SOC-mode: Activated.🛡️🗿
-
----
+## Cracked Deloitte’s Cyber Simulation by exposing a stealthy insider through Blue Team log forensics — SOC-mode: Activated.
 
 In the ever-evolving battleground of cybersecurity, every challenge is an opportunity to sharpen your blade. Recently, I took on the **Deloitte Australia Cyber Security Virtual Internship Sim** hosted by [Forage](https://www.theforage.com/simulations/Deloitte%20Australia/cyber-c1e3) and what followed was a practical Blue Team drill that blended analytical thinking, threat detection and digital defense.
 
